@@ -1,6 +1,6 @@
 ### I am Guilherme Costa! 👋
 
-- I am currently studying Software Engineering
+- I am currently studying Software Engineering at UnB
 
 <div align="center">
   <a href="https://github.com/GuilhermeRCost">
